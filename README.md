@@ -1,7 +1,5 @@
 # e-commerce-back-end
 
-[Link to video demonstration of application](https://drive.google.com/file/d/1ARDisqydgyB3bUVvNa4mzKBcyYFW4j__/view)
-
 ## Description
 
 This application lets users reach all endpoints for an e-commerce app. It demonstrates the ability to read, update, create, delete products, tags, and categories with influence and relationships on each other from a relational database
@@ -64,10 +62,5 @@ npm start
 
 Insomnia core is recommended to test each endpoint as this application has no functional front end currently.
 
-[Here is a video demonstration of the application in use](https://drive.google.com/file/d/1ARDisqydgyB3bUVvNa4mzKBcyYFW4j__/view)
 
-## Questions
 
-You can find more of my work at [BTDubbzzz-gitHub](https://github.com/BTDubbzzz).
-
-If you have any questions about the repo, open an issue or contact me directly at wright.blake.t@gmail.com
